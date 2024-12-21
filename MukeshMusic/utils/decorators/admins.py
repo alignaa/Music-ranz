@@ -16,7 +16,6 @@ from strings import get_string
 from MukeshMusic import app
 from MukeshMusic.misc import SUDOERS
 from MukeshMusic.utils.database import (
-    get_authuser_names,
     get_cmode,
     get_lang,
     is_active_chat,
